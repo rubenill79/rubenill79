@@ -4,7 +4,7 @@
 - **Name:** Rubén Lázaro
 - **Email:** rubenill79@hotmail.com
 - **Phone:** +34 640 35 02 97
-- **LinkedIn:** [linkedin.com/ruben-lazaro](https://www.linkedin.com/ruben-lazaro)
+- **LinkedIn:** [linkedin.com/ruben-lazaro](https://www.linkedin.com/in/ruben-lazaro/)
 
 ## Profile
 I am a programmer with a keen interest in entering the job market to apply my knowledge. I am a disciplined, communicative, and committed individual. 
