@@ -10,6 +10,9 @@
 I am a programmer with a keen interest in entering the job market to apply my knowledge. I am a disciplined, communicative, and committed individual. 
 I am eager to find an opportunity to gain more professional experience and learn.
 
+## Current projects working on
+- **Pygame orbital sim:** (https://github.com/rubenill79/pygame-orbital-sim)
+
 ## Languages
 - **Spanish:** Native
 - **English:** B2 (2022)
@@ -35,9 +38,6 @@ I am eager to find an opportunity to gain more professional experience and learn
 - **Bachillerato aplicado a las CC.SS**
   - *September 2020 - May 2022*
   - IES Al-Satt Algete, 28110
-
-## Current projects working on
-- **Pygame orbital sim:** (https://github.com/rubenill79/pygame-orbital-sim)
 
 ---
 
